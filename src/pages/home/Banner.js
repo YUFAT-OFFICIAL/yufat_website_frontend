@@ -14,7 +14,7 @@ const Banner = () => (
         <h1 className="banner-title mt-s mb-m">Nurturing Youth with High-Quality Computer Proficiency</h1>
         <button className="btn banner-btn" type="button">DONATE</button>
       </div>
-      <a href="#welcome-section"><span><i className="fa fa-angle-down banner-down-arrow" /></span></a>
+      <a href="#welcome-section"><span><i className="fa fa-angle-down banner-down-arrow" aria-label="Scroll down" /></span></a>
     </div>
 
     <section id="welcome-section" className="welcome_section">

@@ -2,12 +2,12 @@ import React from 'react';
 import Banner from './Banner';
 import Causes from './Causes';
 import Testimonials from './Testimonials';
-import Services_section from './ServicesSection';
+import ServicesSection from './ServicesSection';
 
 const Home = () => (
   <main>
     <Banner />
-    <Services_section />
+    <ServicesSection />
     <Causes />
     <Testimonials />
   </main>

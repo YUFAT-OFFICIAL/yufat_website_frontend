@@ -23,7 +23,7 @@ const Testimonials = () => (
 
             <p className="testimonial_description">
               Yufat has been a beacon of light in my life.
-              When I had to leave my home country Rwanda due to War,
+              When I had to leave my home country DRC due to War,
               I felt lost. Yufat's training in coding and
               Microsoft applications not only gave me a sense
               of purpose but also the tools to secure a stable job.

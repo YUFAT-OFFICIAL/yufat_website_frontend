@@ -1,3 +1,4 @@
+/*eslint linebreak-style: ["error", "windows"]*/
 import React from 'react';
 
 const Causes = () => (
@@ -23,7 +24,8 @@ const Causes = () => (
           <p className="causes_card_text">
             YUFAT's presence and initiatives, particularly
             in Kyaka II refugee settlement, provide support and
-            educational opportunities to refugee communities. This
+            educational opportunities to refugee communities.
+            This
             support helps enhance their resilience, integration,
             and overall well-being
           </p>
